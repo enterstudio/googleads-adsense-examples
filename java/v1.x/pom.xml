@@ -114,7 +114,7 @@
     <dependency>
       <groupId>com.google.apis</groupId>
       <artifactId>google-api-services-adsense</artifactId>
-      <version>v1.4-rev10-1.18.0-rc</version>
+      <version>v1.4-rev433-1.24.1</version>
     </dependency>
     <dependency>
       <groupId>com.google.http-client</groupId>
@@ -129,7 +129,7 @@
   </dependencies>
   <properties>
     <project.http.version>1.18.0-rc</project.http.version>
-    <project.oauth.version>1.18.0-rc</project.oauth.version>
+    <project.oauth.version>1.24.1</project.oauth.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 </project>
